@@ -1,0 +1,6 @@
+# ⚠️ بعد از مشخص شدن دامنه نهایی، آدرس Sitemap زیر را با دامنه واقعی جایگزین کن
+
+User-agent: *
+Allow: /
+
+Sitemap: https://example.com/sitemap.xml
